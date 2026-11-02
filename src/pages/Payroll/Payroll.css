@@ -1,0 +1,1 @@
+.payroll-page .payroll-note{margin:16px 0;padding:14px;background:#fff9ee;border:1px solid #f3dfb8;border-radius:10px;color:#a66a18;font-size:12px}.payroll-page .lead-stats{grid-template-columns:repeat(4,1fr)}@media(max-width:700px){.payroll-page .lead-stats{grid-template-columns:repeat(2,1fr)}}
